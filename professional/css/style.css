@@ -125,13 +125,16 @@ header a:hover {
   #boxes .box{
     float:left;
     text-align: center;
-    width:30%;
+    width:23%;
     padding:10px;
   }
   
   #boxes .box img{
-    width:90px;
+    width:100px;
   }
+  #boxes .box h3{
+    margin-bottom: 5px;
+}
 
 /* Sidebar */
 
@@ -183,6 +186,7 @@ ul#services li{
 .follow * {
     margin-right: 10px;
 }
+
 
 /* Media Queries */
 @media(max-width: 768px){
