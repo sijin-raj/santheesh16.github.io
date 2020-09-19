@@ -11,6 +11,15 @@ nav {
     border-bottom: #e8491d 5px solid;
 }
 
+.eventshow {
+    background-image: no-repeat;
+    min-height: 100px;
+    text-align: center;
+    
+
+}
+
+
 
 .follow {
     display: flex;
@@ -54,7 +63,10 @@ footer{
         margin: auto;
         overflow: hidden;
     }
-
+    #footer{
+        height: 300px;
+    }
+    
 }
 /* Global*/
 div {
